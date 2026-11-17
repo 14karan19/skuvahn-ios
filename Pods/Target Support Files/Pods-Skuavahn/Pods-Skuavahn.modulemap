@@ -1,0 +1,6 @@
+framework module Pods_Skuavahn {
+  umbrella header "Pods-Skuavahn-umbrella.h"
+
+  export *
+  module * { export * }
+}

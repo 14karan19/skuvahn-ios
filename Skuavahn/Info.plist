@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UIAppFonts</key>
+	<array>
+		<string>avenir.ttf
+</string>
+		<string>notosans_black.ttf</string>
+		<string>notosans_bold.ttf</string>
+		<string>notosans_italic.ttf</string>
+		<string>notosans_medium.ttf</string>
+		<string>notosans_mediumitalic.ttf</string>
+		<string>notosans_regular.ttf</string>
+		<string>notosans_semibold.ttf</string>
+		<string>notosans_semibold_italic.ttf</string>
+		<string>plexsans_bold.ttf</string>
+		<string>plexsans_bolditalic.ttf</string>
+		<string>plexsans_extralight.ttf</string>
+		<string>plexsans_extralightitalic.ttf</string>
+		<string>plexsans_italic.ttf</string>
+		<string>plexsans_light.ttf</string>
+		<string>plexsans_lightitalic.ttf</string>
+		<string>plexsans_medium.ttf</string>
+		<string>plexsans_mediumitalic.ttf</string>
+		<string>plexsans_regular.ttf</string>
+		<string>plexsans_semibold.ttf</string>
+		<string>plexsans_semibolditalic.ttf</string>
+		<string>plexsans_thin.ttf</string>
+		<string>plexsans_thinitalic.ttf</string>
+	</array>
+</dict>
+</plist>
